@@ -1,0 +1,29 @@
+LIBRARY & BOOKSTORE — MEMBERSHIP AND BORROWING POLICY
+
+Membership Plans:
+- Basic Membership (Free): Browse and purchase books in-store. No borrowing privileges.
+- Reader Plan (₹199/month): Borrow up to 3 books at a time for 14 days each.
+- Reader Plus Plan (₹399/month): Borrow up to 6 books at a time for 21 days each,
+  includes access to the eBook library.
+
+Borrowing Rules:
+- Members may renew a borrowed book once, for the same duration as the original loan,
+  as long as no one else has reserved it.
+- A maximum of 2 overdue books is allowed before borrowing privileges are paused.
+
+Late Fees:
+- ₹5 per day per book for the first 7 days overdue.
+- ₹10 per day per book after 7 days overdue.
+- Lost or damaged books are charged at the book's listed price plus a ₹100 processing fee.
+
+Reservations:
+- Members can place a reservation on a book that is currently checked out.
+- Reserved books are held at the front desk for 3 days after becoming available.
+
+Library Hours:
+- Monday to Saturday: 10:00 AM to 8:00 PM
+- Sunday: 11:00 AM to 5:00 PM
+
+Locations:
+- Main Branch: MG Road
+- Community Annex: Lakeview Colony
